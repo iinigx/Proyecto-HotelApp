@@ -14,7 +14,7 @@ Pestaña «Informes de reservas»
 Tabla con código, estado, cliente, habitación, fechas de entrada y salida y número de personas.
 Filtros combinables por estado (Todos, Confirmada, Finalizada, Cancelada, Pendiente) y por mes (Todos los meses, Octubre 2026, Noviembre 2026).
 Totales que se recalculan al aplicar cada filtro: total de reservas y desglose por estado.
-🛠️ Tecnologías
+Tecnologías
 Tecnología	Versión	Uso
 Java	21	Lenguaje principal
 JavaFX (controls + fxml)	21.0.4	Interfaz gráfica
